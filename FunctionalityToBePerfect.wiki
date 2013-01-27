@@ -10,5 +10,5 @@
 
 
 
-'<ruby><rb>文</rb><rp>(</rp><rt>wén</rt><rp>)</rp></ruby>'
+{{{<ruby><rb>文</rb><rp>(</rp><rt>wén</rt><rp>)</rp></ruby>}}}
  
