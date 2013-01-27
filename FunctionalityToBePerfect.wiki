@@ -1,7 +1,7 @@
-#summary One-sentence summary of this page.
 #labels Phase-Design
+#客户端待改进的功能.
 
-= Introduction =
+= 列表 =
 
 || 编号 || 功能描述                      || 状态 || 更新时间 ||
 || 1 || 用独立命令，启动PowerShell调试||      ||       ||
