@@ -3,7 +3,7 @@
 
 = 列表 =
 
-|| *功能描述*                      ||*状态*||*更新时间*||
+|| *功能描述*                      || *状态* || *更新时间* ||
 || 用独立命令，启动`PowerShell`调试|| ok || 13-1-28 ||
 || 图片 `[http://ezdo-test.googlecode.com/files/ezdo-math-code.jpg]` ||ok ||13-1-30 ||
 || 链接 `[http://ezdo-test.googlecode.com/ 弹指即就]` [http://ezdo-test.googlecode.com/ 弹指即就]  ||ok ||13-1-30 ||
