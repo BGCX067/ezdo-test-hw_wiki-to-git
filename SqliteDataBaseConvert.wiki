@@ -1,0 +1,13 @@
+# 将Sqlite数据库原UTF-8编码,转为UTF-16
+= 步骤 =
+
+1 导出原数据库
+    > .backup db8.sql
+
+2 记事本打开'db8.sql'，加入(改) Pragma encoding="UTF-16";
+
+3 创建CMD.exe 的快捷方式，改属性“当前代码页 437”
+
+4 执行该cmd.exe
+  > type db8.sql | sqlite3.exe db16.db
+
